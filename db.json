@@ -1,5 +1,28 @@
 {
-"products": [
+  "users": [
+    {
+      "email": "gaby@gmail.com",
+      "password": "123",
+      "firstName": "Gabriel",
+      "lastName": "Godoy",
+      "celphone": 147
+    },
+    {
+      "email": "lisa@gmail.com",
+      "password": "456",
+      "firstName": "Lisa",
+      "lastName": "Godoy",
+      "celphone": 258
+    },
+    {
+      "email": "pilar@gmail.com",
+      "password": "789",
+      "firstName": "Pilar",
+      "lastName": "Mugica",
+      "celphone": 369
+    }
+  ],
+  "products": [
     {
       "id": 6500,
       "description": "NOTEBOOK 14 LENOVO LN14W A6-9220C 128SSD 4GB WIN10",
@@ -160,5 +183,15 @@
       "stock": 4,
       "offer": true
     }
-  ]
+  ],
+  "categories": [
+    { "id": 14, "description": "Microprocesadores" },
+    { "id": 1, "description": "Placas Madre" },
+    { "id": 13, "description": "Memorias RAM" },
+    { "id": 66, "description": "Discos" },
+    { "id": 31, "description": "Notebooks" },
+    { "id": 54, "description": "Celulares" }
+  ],
+  "dollarQuote": 160
 }
+
