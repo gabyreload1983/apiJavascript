@@ -5,21 +5,27 @@
       "password": "123",
       "firstName": "Gabriel",
       "lastName": "Godoy",
-      "celphone": 147
+      "celphone": 147,
+      "address": "Buenos Aires 258",
+      "cp": 2200
     },
     {
       "email": "lisa@gmail.com",
       "password": "456",
       "firstName": "Lisa",
       "lastName": "Godoy",
-      "celphone": 258
+      "celphone": 258,
+      "address": "Buenos Aires 258",
+      "cp": 2200
     },
     {
       "email": "pilar@gmail.com",
       "password": "789",
       "firstName": "Pilar",
       "lastName": "Mugica",
-      "celphone": 369
+      "celphone": 369,
+      "address": "Buenos Aires 258",
+      "cp": 2200
     }
   ],
   "products": [
